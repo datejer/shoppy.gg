@@ -1,0 +1,23 @@
+{
+  "name": "shoppy.gg",
+  "version": "1.0.0",
+  "description": "A simple shoppy.gg wrapper to access the Shoppy API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shoppy",
+    "shoppy.gg",
+    "wrapper"
+  ],
+  "author": "ejer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datejer/shoppy.gg/issues"
+  },
+  "homepage": "https://github.com/datejer/shoppy.gg#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}

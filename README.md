@@ -1,5 +1,6 @@
 # Shoppy.gg
 [![author](https://img.shields.io/badge/author-ejer-success.svg)](http://ejer.ga/) ![version](https://img.shields.io/npm/v/shoppy.gg.svg?color=success&label=version) ![downloads](https://img.shields.io/npm/dt/shoppy.gg.svg)
+
 [![NPM](https://nodei.co/npm/shoppy.gg.png?compact=true)](https://nodei.co/npm/shoppy.gg/)
 
 A simple Shoppy.gg wrapper to access the Shoppy API.

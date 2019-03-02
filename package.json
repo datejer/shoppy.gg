@@ -1,6 +1,6 @@
 {
   "name": "shoppy.gg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple shoppy.gg wrapper to access the Shoppy API.",
   "main": "index.js",
   "scripts": {
